@@ -1,6 +1,8 @@
-# White
+# BADS 2018–1 
 
-### A GitPitch Presentation Template
+### A GitPitch Presentation Test
+
+Inline math $n+1$ and display: $$\sqrt{n+1}$$
 
 ---
 
